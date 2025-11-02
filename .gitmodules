@@ -1,0 +1,18 @@
+[submodule "timewise-api"]
+	path = timewise-api
+	url = https://github.com/timewise-team/timewise-api.git
+[submodule "timewise-fe"]
+	path = timewise-fe
+	url = https://github.com/timewise-team/timewise-fe.git
+[submodule "timewise-dms"]
+	path = timewise-dms
+	url = https://github.com/timewise-team/timewise-dms.git
+[submodule "timewise-models"]
+	path = timewise-models
+	url = https://github.com/timewise-team/timewise-models.git
+[submodule "timewise-notification"]
+	path = timewise-notification
+	url = https://github.com/timewise-team/timewise-notification.git
+[submodule "timewise-meeting-bot"]
+	path = timewise-meeting-bot
+	url = https://github.com/timewise-team/timewise-meeting-bot.git
